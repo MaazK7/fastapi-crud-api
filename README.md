@@ -34,8 +34,8 @@ While the update method is not implemented, it can be added with ease. This proj
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/MaazK7/fastapi-crud-api.git
+   cd fastapi-crud-api
    ```
 
 2. Create and activate a virtual environment:
